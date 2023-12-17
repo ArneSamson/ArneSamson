@@ -28,7 +28,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  </a>
-    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13802008?s=200&v=4" alt="nodejs" width="40" height="40"/>  </a>
+    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13802008?s=200&v=4" alt="threejs" width="40" height="40"/>  </a>
 </p>
 
 <h4 align="left">Tools</h4>
@@ -42,6 +42,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" alt="vercel" width="40" height="40"/> </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/42682871?s=200&v=4" alt="render" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnesamson&show_icons=true&locale=en&layout=compact" alt="arnesamson" /></p>
