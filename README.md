@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arne.samson.private@gmail.com**
 
-- 📄 Know about my experiences [https://arnesamson.be/public/cv.pdf](https://arnesamson.be/cv)
+- 📄 Know about my experiences [CV (resume)](https://arnesamson.be/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
