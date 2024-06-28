@@ -1,8 +1,6 @@
 <h1 align="center">Hi 🫡, I'm Arne Samson</h1>
 <h3 align="center">A 3D-inspired web development student</h3>
 
-- 🔭 I’m currently working on [Yogism](https://github.com/ArneSamson/LAB3_Yogism_App)
-
 - 👨‍💻 Take a look at my website at [https://arnesamson.be/](https://arnesamson.be/)
 
 - 📫 How to reach me **arne.samson.private@gmail.com**
